@@ -1,4 +1,4 @@
-# Supply Chain Enhancement at Dollar Tree Inc, Boston Fall 2022
+# Supply Chain Enhancement at Dollar Tree Inc
 
 ## Project Introduction
 
